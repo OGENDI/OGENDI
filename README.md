@@ -18,7 +18,7 @@
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 Python` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
-  - 🗄️ **Back-end:**
+- 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ Python`
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
