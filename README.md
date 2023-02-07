@@ -6,6 +6,10 @@
 - Developed products for **healthcare, online store, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
+<img id="img" class="hide margin-bottom-20" alt="" src="https://imageup.me/images/dd1deea3-d85d-4950-9294-4c1f1971728a.png" style="width: 623px; height: 296px; display: inline;">
+
+
+
 #### What I'm doing?
 - 👨‍💻 Writing `Python` `SQL` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/derick-ogendi"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/derick-ogendi)-->.
