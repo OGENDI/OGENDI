@@ -47,16 +47,13 @@
 
 #### What companies have I worked for?
 <p left="center">
-  <a href="https://selisegroup.com/">
-    <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
+  <a href="https://www.adept-techno.com/">
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.adept-techno.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fadept-technologies-logo.svg&imgrefurl=https%3A%2F%2Fwww.adept-techno.com%2F&tbnid=5-gBg0GMdeTTAM&vet=12ahUKEwiA2ZCozYP9AhW3nycCHdn6A8YQMygAegUIARCwAQ..i&docid=8ymSWlT9t8CDTM&w=800&h=324&q=adept%20technologies&ved=2ahUKEwiA2ZCozYP9AhW3nycCHdn6A8YQMygAegUIARCwAQ" height=50>
     </a> 
-  <a href="https://3ssoftltd.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b-D5T2Flf7EDcsRtGCwK33TY8nWxldo-PoG3NGmzlGY60ZWjdNlTH42luTcRBKwg5xw&usqp=CAU" height=50>
+  <a href="https://www.cloudfactory.co.ke/">
+    <img src="<img src="https://www.cloudfactory.co.ke/wp-content/themes/cloudfactory-theme/img/logo.png" height=50>
   </a>
-  <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50> 
+  <a href="https://jubileeinsurance.com/ke/">
+    <img src="https://jubileeinsurance.com/ke/wp-content/uploads/2021/04/logo.png" height=50> 
   </a>
-  <a href="https://www.celimited.com/">
-    <img src="https://celimited.com/wp-content/uploads/2022/11/logo.png" height=50 width=250>
-  </a>
-</p>
+ </p>
