@@ -6,9 +6,6 @@
 - Developed products for **healthcare, online store, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-<img src="https://imageup.me/images/dd1deea3-d85d-4950-9294-4c1f1971728a.png" width="574" height="272">
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://imageup.me/images/dd1deea3-d85d-4950-9294-4c1f1971728a.png" width="574" height="272">
 
 #### What I'm doing?
 - 👨‍💻 Writing `Python` `SQL` `HTML` `CSS` `JavaScript`.
