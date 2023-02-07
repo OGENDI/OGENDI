@@ -6,7 +6,7 @@
 - Developed products for **healthcare, online store, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-<img id="img" class="hide margin-bottom-20" alt="" src="https://imageup.me/images/dd1deea3-d85d-4950-9294-4c1f1971728a.png" style="width: 623px; height: 296px; display: inline;">
+<img id="img" class="hide margin-bottom-20" alt="" src="https://imageup.me/od1" style="width: 623px; height: 296px; display: inline;">
 
 
 
