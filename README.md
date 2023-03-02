@@ -48,6 +48,9 @@
 
 #### What companies have I worked for?
 <p left="center">
+<!--   <a href="https://www.digitaldividedata.com/">
+    <img src="https://images.squarespace-cdn.com/content/v1/6320…-bbf4-5cb31651f54b/DDD+all+white.png?format=1500w" alt="DDD logo" height=50>
+  </a> -->
   <a href="https://www.adept-techno.com/">
     <img src="https://www.adept-techno.com/wp-content/uploads/2020/08/adept-technologies-logo.svg" alt="Site Logo" height=50>
     </a> 
